@@ -1,0 +1,4 @@
+local_settings.py
+*.pyc
+wsgi.py
+dump_data/*.json

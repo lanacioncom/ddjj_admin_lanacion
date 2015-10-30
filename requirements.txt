@@ -1,0 +1,24 @@
+diff-match-patch==20121119
+Django==1.7.1
+django-cors-headers==1.1.0
+-e git+https://github.com/django-debug-toolbar/django-debug-toolbar.git@106e9cfbaa18a4fcefa3fc90c766bd6c510642e3#egg=django_debug_toolbar-master
+django-extensions==1.5.3
+django-grappelli==2.6.3
+django-import-export==0.2.7
+django-pdb==0.4.2
+djangorestframework==3.2.3
+ecdsa==0.11
+Fabric==1.10.0
+graphviz==0.4.4
+grappelli-nested-inlines==0.6.0
+MySQL-python==1.2.5
+paramiko==1.15.1
+pycrypto==2.6.1
+pydot==1.0.2
+pyparsing==1.5.7
+python-gnupg==0.3.7
+PyYAML==3.11
+six==1.9.0
+sqlparse==0.1.15
+tablib==0.10.0
+unicodecsv==0.13.0
