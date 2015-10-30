@@ -1,9 +1,10 @@
 # Admin Declaraciones juradas tres poderes
 
 Declaraciones Juradas Abiertas es un proyecto de LA NACION, junto a Poder Ciudadano, Fundación Directorio Legislativo, la Asociación Civil por la Igualdad y la Justicia y más de 30 voluntarios que colaboraron para abrir la información patrimonial de los principales funcionarios públicos de la Argentina.
-Todas las personas que participamos del proyecto queremos que otras organizaciones y equipos se sumen a la aventura de abrir documentos públicos que no puedan ser procesados (aún) por las tecnologías disponibles. Con este mismo espíritu y gracias al apoyo de Hivos, creamos este formulario que nos permitió cargar de manera colaborativa más de 900 declaraciones juradas nuevas, luego del lanzamiento inicial en 2013.
-Estamos convencidos de que abrir el código de esta aplicación permitirá a otros hacer más fácil la tarea de crear bases de datos para acercar la información pública a los ciudadanos. Por eso también, invitamos (y queremos) que otras personas puedan descargar , modificar y retrabajar lo que hicimos en equipo.
-Por último, agradecemos a Suma Ciudadana, ONG de Perú con la que trabajamos durante más de un año en el marco del proyecto de Hivos para impulsar y mejorar nuestras platafromas de declaraciones juradas. Juntos nos enfrentamos a desafíos que pudimos resolver colectivamente, pero por sobre todas las cosas, hicimos las cosas en equipo con una única finalidad: que las personas pudieron conocer el patrimono de los funcionarios públicos sin tecnicismos y de modo sencillo.
+ 
+Todas las personas que participamos del proyecto queremos que otras organizaciones y equipos se sumen a la aventura de abrir documentos públicos que no puedan ser procesados (aún) por las tecnologías disponibles. Con este mismo espíritu y gracias al apoyo de Hivos, abrimos el código de nuestro sitio porque estamos convencidos de que su reutilización permitirá a otros hacer más fácil la tarea de crear bases de datos para acercar la información pública a los ciudadanos. Por eso también, invitamos (y queremos) que otras personas puedan descargar , modificar y retrabajar lo que hicimos en equipo.
+ 
+A través de estas líneas, también queremos agradecemos a Suma Ciudadana, ONG de Perú con la que trabajamos durante más de un año en el marco del proyecto de Hivos para impulsar y mejorar nuestras platafromas de declaraciones juradas. Juntos nos enfrentamos a desafíos que pudimos resolver colectivamente, pero por sobre todas las cosas, hicimos las cosas en equipo con una única finalidad: que las personas pudieron conocer el patrimono de los funcionarios públicos sin tecnicismos y de modo sencillo.
 
 ## Tutorial de carga:
 
