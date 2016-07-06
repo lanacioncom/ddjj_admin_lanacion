@@ -1,4 +1,4 @@
-# Admin Declaraciones juradas tres poderes
+# Declaraciones Juradas Abiertas - Formulario ABM
 
 Declaraciones Juradas Abiertas es un proyecto de LA NACION, junto a Poder Ciudadano, Fundación Directorio Legislativo, la Asociación Civil por la Igualdad y la Justicia y más de 30 voluntarios que colaboraron para abrir la información patrimonial de los principales funcionarios públicos de la Argentina.
  
